@@ -4,9 +4,9 @@ function person(First_Name ,Last_Name,Office_Address){
     this.Office_Address=Office_Address
 }
 
-var per1 = new person("Pali","Manohar","Delhi");
-var per2 = new person("Mani","Kumar","Mumbai");
-var per3 = new person("Krishna","Teja","Hyderabad");
+var Per1 = new person("Pali","Manohar","Delhi");
+var Per2 = new person("Mani","Kumar","Mumbai");
+var Per3 = new person("Krishna","Teja","Hyderabad");
 
 
 console.log("Person1:")
